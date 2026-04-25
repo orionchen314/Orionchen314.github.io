@@ -429,15 +429,15 @@ ninja.data = [{
             },},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
           title: 'Finalized PMT waveform analysis and charge reconstruction framework.',
           description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-achieved-first-prize-in-china-undergraduate-physics-experiment-competition",
-          title: 'Achieved First Prize in China Undergraduate Physics Experiment Competition',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
