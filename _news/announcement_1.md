@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- **Apr 2026**: Finalized PMT waveform analysis and charge reconstruction framework.
+Finalized PMT waveform analysis and charge reconstruction framework.
