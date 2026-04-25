@@ -14,11 +14,13 @@ Beyond academic research, my interests are not isolated activities but form a co
 
 ### Cycling
 
-![Road cycling](/hobbies/road_cycling.jpg)
-
-Cycling is my primary long-term commitment. I regularly engage in medium-to-long distance road cycling, focusing on endurance, pacing strategies, and performance optimization.
-
-I am trained in both road cycling and mountain biking, and I hold a **National Level-2 Referee certification** for cycling and triathlon events. This provides not only athletic experience but also a structured understanding of race systems, rules, and performance evaluation.
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1rem;">
+  <img src="/assets/img/hobbies/cycling.jpg" alt="Road cycling" style="width: 38%; max-width: 320px; min-width: 220px; border-radius: 8px; object-fit: cover;">
+  <div style="flex: 1;">
+    <p>Cycling is my primary long-term commitment. I regularly engage in medium-to-long distance road cycling, focusing on endurance, pacing strategies, and performance optimization.</p>
+    <p>I am trained in both road cycling and mountain biking, and I hold a <strong>National Level-2 Referee certification</strong> for cycling and triathlon events. This provides not only athletic experience but also a structured understanding of race systems, rules, and performance evaluation.</p>
+  </div>
+</div>
 
 ### Fitness Training
 
@@ -36,7 +38,9 @@ Due to a previous knee surgery, I place strong emphasis on **stability, recovery
 
 ### Injury Awareness & Teaching
 
-![Cycling injury workshop](/hobbies/knee_injury_lecture.jpg)
+<div style="text-align: center; margin: 1rem 0;">
+  <img src="/assets/img/hobbies/knee_injury_lecture.jpg" alt="Cycling injury workshop" style="width: 70%; max-width: 720px; border-radius: 8px; object-fit: cover;">
+</div>
 
 My experience in sports naturally extended into injury analysis and community education.
 
