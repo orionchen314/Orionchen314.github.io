@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PandaX Collaboration</p>
+    <p><a href="https://pandax.sjtu.edu.cn/" target="_blank">PandaX Collaboration</a></p>
     <p>Experimental Particle Physics</p>
     <p>Detector Instrumentation & Data Analysis</p>
 
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student and research assistant in the PandaX Collaboration, focusing on experimental particle physics and detector instrumentation.
+I am an undergraduate student and research assistant in the <a href="https://pandax.sjtu.edu.cn/" target="_blank">PandaX Collaboration</a>, focusing on experimental particle physics and detector instrumentation.
 
 My research centers on liquid xenon time projection chamber (LXe TPC) technology, with particular emphasis on photomultiplier tube (PMT) readout systems, waveform analysis, and detector response characterization. I am actively involved in developing data processing pipelines and studying signal reconstruction methods for rare-event searches.
 
