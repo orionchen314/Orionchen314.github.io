@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -89,51 +89,81 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "projects-pmt-readout-platform-for-a-pandax-inspired-array",
+          title: 'PMT Readout Platform for a PandaX-inspired Array',
+          description: "Designed and implemented a multi-channel PMT readout system for a 55-PMT array, including waveform acquisition, baseline correction, and charge extraction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_pmy_readout_system/";
+            },},{id: "projects-pmt-linearity-and-saturation-correction-study",
+          title: 'PMT Linearity and Saturation Correction Study',
+          description: "Investigated PMT saturation mechanisms and improved linearity using optimized base circuits and desaturation capacitors, extending dynamic range significantly.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_pmt_sat_sup/";
+            },},{id: "projects-light-source-position-reconstruction-with-pmt-arrays",
+          title: 'Light Source Position Reconstruction with PMT Arrays',
+          description: "Implemented position reconstruction algorithms based on PMT charge distributions, including center-of-gravity and PAF methods, and evaluated spatial resolution.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_position_recon/";
+            },},{id: "projects-root-based-pmt-waveform-analysis-framework",
+          title: 'ROOT-based PMT Waveform Analysis Framework',
+          description: "Developed a C++/ROOT pipeline for multi-channel waveform processing, including baseline subtraction, peak finding, charge integration, and automated fitting.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_root_waveform_analysis_framework/";
+            },},{id: "projects-cycling-injury-workshop-and-sports-outreach",
+          title: 'Cycling Injury Workshop and Sports Outreach',
+          description: "Organized and delivered a workshop on identifying and managing cycling-related knee injuries, integrating biomechanics with practical training guidance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_cycling_injury_workshop/";
+            },},{id: "projects-flexible-pmt-base-design-for-next-generation-lxe-detectors",
+          title: 'Flexible PMT Base Design for Next-generation LXe Detectors',
+          description: "Designed a compact flexible PMT base integrating voltage division, signal readout, and mechanical adaptability for dense PMT arrays in future liquid xenon experiments.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/new_base_design/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/old_1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/old_2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/old_3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/old_4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/old_5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/old_6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/old_7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/old_8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/old_9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
