@@ -433,8 +433,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-apr-2026-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
+          title: 'Apr 2026: Finalized PMT waveform analysis and charge reconstruction framework.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
