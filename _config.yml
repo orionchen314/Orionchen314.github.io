@@ -165,6 +165,8 @@ collections:
     output: true
   teachings:
     output: true
+  hobbies:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
