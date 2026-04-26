@@ -10,7 +10,7 @@ Beyond academic research, my interests are not isolated activities but form a co
 
 ---
 
-## 1. Physical Discipline
+## 1. Training and Physical Activity
 
 ### Cycling
 
