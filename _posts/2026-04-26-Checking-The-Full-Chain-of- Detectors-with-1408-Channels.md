@@ -4,6 +4,7 @@ title: "Full-Chain Diagnostics of a 1408-Channel TPC Readout System"
 date: 2026-04-26
 description: Systematic debugging and channel-level fault localization across a large-scale TPC detector readout chain
 tags: [TPC, detector, DAQ, debugging, electronics]
+giscus_comments: true
 ---
 
 ## Background
