@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-Beyond academic research, my interests are not isolated activities but form a coherent system that shapes how I approach endurance, engineering, and problem solving. They can be roughly grouped into three domains: **physical discipline**, **intellectual exploration**, and **practical engineering**.
+Beyond academic research, my interests are not isolated activities but form a coherent system that shapes how I approach endurance, engineering, and problem solving. They can be roughly grouped into three domains: **physical training and endurance development**, **intellectual exploration**, and **practical engineering**.
 
 ---
 
@@ -16,21 +16,23 @@ Beyond academic research, my interests are not isolated activities but form a co
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 1rem;">
   <div style="flex: 1;">
-    <p>Cycling is my primary long-term commitment. I regularly engage in medium-to-long distance road cycling, focusingon endurance, pacing strategies, and performance optimization, and I hold a <strong>National Level-2 Referee certification</strong> for cycling and triathlon events. </p>
-    <p>This provides not only athletic experience but also a structured understandingof race systems,rules,and performance evaluation.I am an active road cyclist and regularly engage in medium-to-long distance rides. Cycling serves both as cardiovascular training and as a way to build long-term discipline. I am particularly interested in performance tracking, pacing strategies, and endurance optimization.</p>
+    <p>Cycling is my primary long-term activity. I regularly engage in medium-to-long distance road cycling, focusing on endurance, pacing strategies, and performance optimization. I also hold a <strong>National Level-2 Referee certification</strong> for cycling and triathlon events, which gives me both practical experience and an understanding of race systems and rules.</p>
   </div>
   <img src="/assets/img/hobbies/cycling.jpeg" alt="Road cycling" style="width: 42%; max-width: 320px; min-width: 220px; border-radius: 8px; object-fit: cover;">
 </div>
 
 ### Fitness Training
 
-I follow a structured **push–pull–legs strength training program**, with emphasis on:
+I follow a structured **push–pull–legs (PPL) training split (3 days training + 1 day rest)**, focusing on muscle growth, strength development, and overall conditioning.
 
-- Muscle hypertrophy
+My training emphasizes:
+
+- Progressive overload
 - Lower-body strength
-- Injury-aware progression
+- Injury-aware control (due to previous knee surgery)
+- Integration with endurance training (cycling)
 
-Due to a previous knee surgery, I place strong emphasis on **stability, recovery, and load control**, which has led me to develop a systematic approach to injury prevention and rehabilitation.
+This approach allows me to balance strength training with long-term athletic performance.
 
 ---
 
@@ -42,21 +44,11 @@ Due to a previous knee surgery, I place strong emphasis on **stability, recovery
   <img src="/assets/img/hobbies/knee_injury_lecture.jpg" alt="Cycling injury workshop" style="width: 70%; max-width: 720px; border-radius: 8px; object-fit: cover;">
 </div>
 
-My experience in sports naturally extended into injury analysis and community education.
-
-I organized and delivered a lecture:
+My experience in sports also led me to focus on injury prevention and education. I organized a lecture:
 
 **“How to Identify and Manage Knee Injuries in Cycling”**
 
-This workshop focused on:
-
-- Mechanisms of common cycling injuries
-- Self-assessment methods
-- Practical response and recovery strategies
-
-In addition, I have served in a **team medical support role** within university cycling clubs, providing guidance on injury prevention and on-site assessment during training.
-
-This reflects a transition from **individual practice → systematic understanding → community contribution**.
+covering common injury mechanisms, self-assessment, and basic recovery strategies. I have also participated in informal medical support within cycling teams.
 
 ---
 
@@ -64,39 +56,16 @@ This reflects a transition from **individual practice → systematic understandi
 
 ### Amateur Radio (Ham Radio)
 
-I am also interested in **amateur radio (ham radio)**, which combines communication technology, practical electronics, and emergency-response awareness.
+I am interested in **amateur radio (ham radio)**, which involves radio communication, basic electronics, and field operation. This hobby aligns with my interest in instrumentation and real-world systems.
 
-This hobby connects closely with my broader interests in instrumentation and engineering, especially in areas such as:
-
-- Radio-frequency communication
-- Antenna systems
-- Signal propagation
-- Field operation and emergency communication
-
-For me, amateur radio is not only a communication hobby, but also a practical way to understand how electronic systems behave in real environments.
-
-My amateur radio callsign is **BG2FYS**.
+My callsign is **BG2FYS**.
 
 ### Travel
 
-I enjoy independent travel with an emphasis on:
-
-- Exposure to diverse environments
-- Adaptability in unfamiliar conditions
-- Observation-driven learning
-
-Travel complements both engineering and scientific thinking by forcing real-time decision making under uncertainty.
+I enjoy independent travel, especially in unfamiliar environments. It helps develop adaptability and practical decision-making skills.
 
 ---
 
 ## Summary
 
-These activities are not independent hobbies but form an integrated structure:
-
-- **Cycling and training** build discipline and physical resilience
-- **Injury analysis and teaching** extend practice into structured knowledge
-- **Amateur radio** strengthens practical understanding of communication systems
-- **Travel** enhances adaptability and observation
-
-Together, they reinforce a consistent approach:  
-**systematic thinking applied across physical, intellectual, and technical domains**
+These activities together reflect a consistent approach: combining physical training, technical interest, and practical adaptability.
