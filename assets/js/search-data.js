@@ -83,9 +83,9 @@ ninja.data = [{
           section: "News",},{id: "news-finalized-pmt-waveform-analysis-and-charge-reconstruction-framework",
           title: 'Finalized PMT waveform analysis and charge reconstruction framework.',
           description: "",
-          section: "News",},{id: "projects-pmt-readout-platform-for-a-pandax-inspired-array",
-          title: 'PMT Readout Platform for a PandaX-inspired Array',
-          description: "Designed and implemented a multi-channel PMT readout system for a 55-PMT array, including waveform acquisition, baseline correction, and charge extraction.",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_pmy_readout_system/";
             },},{id: "projects-pmt-linearity-and-saturation-correction-study",
