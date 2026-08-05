@@ -1,11 +1,15 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-05'
 papers:
   QRPXZ3UAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Performance Study and Circuit Simulation for R12699-406-M4 Photomultiplier Tube Base
     year: '2026'
+  QRPXZ3UAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Measurement of solar  neutrino flux with the new PandaX-4T data
+    year: '2026'
   QRPXZ3UAAAAJ:u-x6o8ySG0sC:
-    citations: 47
+    citations: 51
     title: "Bi\u2010interlayer strategy for modulating NiCoP\u2010based heterostructure toward high\u2010performance aqueous energy storage devices"
     year: '2024'
